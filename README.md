@@ -2,4 +2,4 @@
 Basic coding
 Basic to advanced code in python
 <br>
-Aurthor - Sagar Chourasiya 
+Author - Sagar Chourasiya 
